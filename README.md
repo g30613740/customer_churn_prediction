@@ -10,7 +10,7 @@
 
 <pre><code>
 # 1. Clone the repository
-git clone https://github.com/your-username/customer-churn-predictor.git
+git clone https://github.com/g30613740/customer_churn_prediction.git
 cd customer-churn-predictor
 
 # 2. Create a virtual environment (optional but recommended)
@@ -105,7 +105,7 @@ customer-churn-predictor/
 <h3>Steps</h3>
 <ol>
   <li><strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/your-username/customer-churn-predictor.git
+    <pre><code>git clone https://github.com/g30613740/customer_churn_prediction.git
 cd customer-churn-predictor</code></pre>
   </li>
   <li><strong>Create a virtual environment (recommended):</strong>
@@ -310,4 +310,4 @@ columns = joblib.load('training_columns.pkl')
 <hr/>
 
 <p><strong>Author:</strong> @g30613740 Philip K.</p>
-<p><strong>GitHub:</strong> <a href="https://github.com/your-username/customer-churn-predictor">https://github.com/g30613740/customer-churn-predictor</a></p>
+<p><strong>GitHub:</strong> <a href="https://github.com/g30613740/customer_churn_prediction">https://github.com/g30613740/customer-churn-predictor</a></p>
