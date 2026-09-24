@@ -11,7 +11,7 @@
 <pre><code>
 # 1. Clone the repository
 git clone https://github.com/g30613740/customer_churn_prediction.git
-cd customer-churn-predictor
+cd customer_churn_prediction
 
 # 2. Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -81,7 +81,7 @@ streamlit run app.py
 <h2 id="project-structure">Project Structure</h2>
 
 <pre>
-customer-churn-predictor/
+customer_churn_prediction/
 ├── main.ipynb                 # Full Jupyter notebook with all steps
 ├── app.py                     # Streamlit application
 ├── churn_model.pkl            # Saved Logistic Regression model
@@ -106,7 +106,7 @@ customer-churn-predictor/
 <ol>
   <li><strong>Clone the repository:</strong>
     <pre><code>git clone https://github.com/g30613740/customer_churn_prediction.git
-cd customer-churn-predictor</code></pre>
+cd customer_churn_prediction</code></pre>
   </li>
   <li><strong>Create a virtual environment (recommended):</strong>
     <pre><code>python -m venv venv
@@ -310,4 +310,4 @@ columns = joblib.load('training_columns.pkl')
 <hr/>
 
 <p><strong>Author:</strong> @g30613740 Philip K.</p>
-<p><strong>GitHub:</strong> <a href="https://github.com/g30613740/customer_churn_prediction">https://github.com/g30613740/customer-churn-predictor</a></p>
+<p><strong>GitHub:</strong> <a href="https://github.com/g30613740/customer_churn_prediction">https://github.com/g30613740/customer_churn_prediction</a></p>
